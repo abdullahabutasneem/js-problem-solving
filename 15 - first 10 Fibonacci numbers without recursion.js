@@ -1,4 +1,4 @@
-// Coding challenge #15: Create a function that will find the nth Fibonacci number using recursion
+// Coding challenge #15: Create a function that will C
 
 function findFibonacci(n) {
     if (n == 0) return 0;
